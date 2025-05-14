@@ -30,7 +30,6 @@
 ## Team Project 
 
 [Project 5. Lloyd Jefferson Portfolio](https://sukrutdemasek.github.io/project-lloyd-jefferson/)<br>
-[Project 6. POTR POTS]()<br>
 
 # Block React
 
@@ -49,7 +48,7 @@
 
 ## Team Project 
 
-[Project 4. Water Tracker Frontend]()<br>
+[Project 4. Water Tracker Frontend](https://water-tracker-frontend-seven.vercel.app/)<br>
 
 # Block Node
 
@@ -57,3 +56,4 @@
 ## Team Project 
 
 [Project 4. Water Tracker Backend]()<br>
+[Project 4. Water Tracker Backend. Swagger](https://water-tracker-backend-guwj.onrender.com/api-docs/)<br>
